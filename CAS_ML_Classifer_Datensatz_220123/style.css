@@ -1,0 +1,29 @@
+html, body {
+  margin: 100;
+  padding: 100;
+  background-color: blue;
+  font-style: normal;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  
+
+  
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: aliceblue;
+  text-shadow: 1px 1px 2px yellow, 0 0 1em yellow, 0 0 0.2em yellow;
+  
+}
+
+p {
+  color: aliceblue;
+
+}
+
+
+canvas {
+  display: block;
+}
